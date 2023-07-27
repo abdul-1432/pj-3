@@ -7,9 +7,9 @@ This is a simple and stylish 404 Page Not Found template built with HTML, CSS, a
 
 ## Preview
 
-Here's how the 404 Page Not Found template looks like:
+Here's what the 404 Page Not Found template looks like:
 
-![Uploading 1.png…]()
+![1](https://github.com/abdul-1432/pj-3/assets/124916666/303849ae-2dd0-49bf-94df-7339bafc3926)
 
 
 ## Features
@@ -26,7 +26,7 @@ To use the 404 Page Not Found template, follow these simple steps:
 1. Clone or download the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/404-page.git
+https://github.com/abdul-1432/pj-3
 ```
 
 2. Navigate to the project directory:
@@ -68,13 +68,13 @@ git checkout -b feature/your-feature-name
 3. Make your changes and commit them:
 
 ```
-git commit -m "Add your commit message here"
+git commit -m "Any doubts connect me or pull request"
 ```
 
 4. Push the changes to your forked repository:
 
 ```
-git push origin feature/your-feature-name
+git push origin feature/pj-3
 ```
 
 5. Open a pull request on the original repository.
@@ -86,10 +86,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This template was inspired by the need for a more engaging 404 error page for websites.
-- Special thanks to [Name](https://github.com/username) for their contributions.
+- Special thanks to [Name](https://github.com/abdul-1432) for their contributions.
 
 ## Support
 
-If you encounter any issues or have questions, feel free to [create an issue](https://github.com/your-username/404-page/issues) on this repository. We'll be glad to assist you.
+If you encounter any issues or have questions, feel free to [create an issue](https://github.com/abdul-1432/404-page/issues) on this repository. We'll be glad to assist you.
 
 Enjoy using the 404 Page Not Found template! Let's create a better user experience together.
