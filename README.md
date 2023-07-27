@@ -62,7 +62,7 @@ If you would like to contribute to this project, follow these steps:
 2. Create a new branch:
 
 ```
-git checkout -b feature/your-feature-name
+git checkout -b feature/pj-3/404-page-not-found
 ```
 
 3. Make your changes and commit them:
@@ -86,7 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This template was inspired by the need for a more engaging 404 error page for websites.
-- Special thanks to [Name](https://github.com/abdul-1432) for their contributions.
+- Special thanks to [abdul-1432](https://github.com/abdul-1432) for their contributions.
 
 ## Support
 
