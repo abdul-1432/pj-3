@@ -1,6 +1,7 @@
 # 404 Page Not Found
 
-![404 Page Not Found](https://your-website-url.com/path/to/404-page.png)
+![1](https://github.com/abdul-1432/pj-3/assets/124916666/303849ae-2dd0-49bf-94df-7339bafc3926)
+
 
 This is a simple and stylish 404 Page Not Found template built with HTML, CSS, and JavaScript. Use this template to enhance the user experience on your website when visitors encounter a page that doesn't exist or cannot be found. This custom 404 error page will give your users a visually appealing and informative message, helping them navigate back to your website's main content seamlessly.
 
@@ -8,7 +9,8 @@ This is a simple and stylish 404 Page Not Found template built with HTML, CSS, a
 
 Here's how the 404 Page Not Found template looks like:
 
-![Preview](https://your-website-url.com/path/to/404-page-preview.png)
+![Uploading 1.png…]()
+
 
 ## Features
 
